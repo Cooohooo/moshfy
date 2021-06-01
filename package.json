@@ -1,17 +1,17 @@
 {
-  "name": "code-with-mosh-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "agentkeepalive": "^4.1.4",
-    "parcel": "^2.0.0-beta.3.1",
-    "uuid": "^7.0.3"
-  }
+   "name": "code-with-mosh-project",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.html",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "agentkeepalive": "^4.1.4",
+      "parcel": "^2.0.0-beta.3.1",
+      "uuid": "^7.0.3"
+   }
 }
